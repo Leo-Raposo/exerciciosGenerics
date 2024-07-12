@@ -1,0 +1,11 @@
+Super-heróis:
+Finn
+Jake
+
+Vilões:
+Rei Gelado
+Mago Louco
+
+Ajudantes:
+BMO
+Mordomo Hortelã
